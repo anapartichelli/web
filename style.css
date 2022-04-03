@@ -43,5 +43,16 @@ h1 {
     border: 10px solid white;
     box-shadow: 0 4px 4px black;
 
+}
+
+.profile__social {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 16px;
+    margin: 0 auto;
+    padding: 0;
+    width: fit-content;
+    list-style: none;
+
 
 }
